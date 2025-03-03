@@ -332,7 +332,7 @@
 
                    The global appointment scheduling software market is experiencing robust growth, driven by the increasing adoption of digital solutions across various sectors. Here's an overview of the market size and growth projections:
 
-                Source	         Market Size (2024)	           Projected Market Size	CAGR	Projection Period
+                Source	                        Market Size (2024)	           Projected Market Size	CAGR	Projection Period
                 Fortune Business Insights	$470.7 million	$1,550.8 million	16.1%	2024–2032
                 Verified Market Research	$332.8 million	$891 million	13.10%	2024–2031
                 Fact.MR	$469.1 million	$1.13 billion	9.2%	2024–2034
