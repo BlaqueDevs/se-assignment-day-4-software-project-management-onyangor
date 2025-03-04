@@ -103,16 +103,16 @@
                  
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 
-                Feature               Waterfall	                                                                                    Agile
-                  Approach	           Sequential, linear process	                                                                    Iterative, incremental process
-                  Phase                Requirements → Design → Implementation → Testing → Deployment → Maintenance	                  Repeated cycles (sprints) of planning, development, testing, and review
-                  Flexibility          Rigid, changes are difficult to accommodate	                                                  Highly flexible, changes can be made at any stage
-                  Client Involvement	 Limited to initial requirement gathering and final delivery	                                  Continuous client involvement throughout development
-                  Testing	             Conducted after development is completed	                                                      Ongoing testing throughout the project
-                  Risk Management    	 High risk if requirements are misunderstood or change	                                        Lower risk due to constant feedback and iteration
-                  Documentation	       Extensive documentation required upfront                                                     	Lightweight documentation, focuses on working software
-                  Delivery	           Delivered at the end of the project                                                           	Delivered in increments (working software after each sprint)
-                  Best for	           Projects with well-defined requirements and minimal expected changes                          	Projects with evolving requirements and need for flexibility
+                Feature                   Waterfall	                                                                                    Agile
+                  Approach	            Sequential, linear process	                                                                          Iterative, incremental process
+                  Phase                   Requirements → Design → Implementation → Testing → Deployment → Maintenance	                        Repeated cycles (sprints) of planning, development, testing, and review
+                  Flexibility             Rigid, changes are difficult to accommodate	                                                      Highly flexible, changes can be made at any stage
+                  Client Involvement	  Limited to initial requirement gathering and final delivery	                                  Continuous client involvement throughout development
+                  Testing	            Conducted after development is completed	                                                      Ongoing testing throughout the project
+                  Risk Management    	  High risk if requirements are misunderstood or change	                                            Lower risk due to constant feedback and iteration
+                  Documentation	  Extensive documentation required upfront                                                     	    Lightweight documentation, focuses on working software
+                  Delivery	            Delivered at the end of the project                                                           	    Delivered in increments (working software after each sprint)
+                  Best for	            Projects with well-defined requirements and minimal expected changes                          	    Projects with evolving requirements and need for flexibility
 
                    Advantages of Waterfall:
                             Clear Structure: The process is highly structured, making it easy to understand and manage. This is helpful for larger teams or projects with strict regulatory or compliance requirements.
